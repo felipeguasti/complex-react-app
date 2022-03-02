@@ -12,7 +12,7 @@ Udemy. Todo o Html e CSS foi disponibilizado por ele. Somente a parte de React f
 é a alma do projeto, 90% de tudo foi produzido por mim enquanto acompanhava a aula dele. Desde já, recomendo ele como professor. 
 É uma pessoa fantástica, clara e possui fluência em tudo o que fala. 
 
-### TECNOLOGIAS UTILIZADAS NO PROJETO
+#### TECNOLOGIAS UTILIZADAS NO PROJETO
 
 - HTML
 - CSS
