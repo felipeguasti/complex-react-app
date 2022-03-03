@@ -5,6 +5,7 @@
 Eu sou Felipe Guasti, estudante de Análise de Sistemas. Atuo também como professor de inglês no estado do Espírito Santo. 
 Tenho estudado desenvolvimento Web e programação para poder mudar de área de atuação. Programar sempre foi um sonho e estou 
 podendo realizá-lo agora. Nunca é tarde demais para começar. 
+EMAIL: felipe.guasti@hotmail.com
 
 ### SOBRE 
 Este é um projeto desenvolvido durante a aula do professor Brad Schiff, em seu curso React For The Rest Of Us disponível pela
